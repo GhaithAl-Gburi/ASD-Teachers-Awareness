@@ -42,7 +42,7 @@ This repository contains `compute_effect_size.R` — an R script used to analyse
 `kruskal.test` and `wilcox.test` are base R functions (stats package).
 
 ---
-The script expects a CSV file (`input.csv`) with the following columns:
+The script expects a CSV file with the following columns:
 
 | Category                     | Variable names                                                                 |
 |-----------------------------|----------------------------------------------------------------------------------|
